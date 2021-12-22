@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+⚡ Fun fact: the largest sea mammal is a 🐋
+😄 Pronouns: He, Him
+📫 How to reach me: :discord:
+💬 Ask me about: The Concept of Love
+🔭 I’m currently working on: a robit.py 
+🟪
+⬛
+⬜
